@@ -305,11 +305,6 @@ This is done to protect:
 * Academic project integrity
 * Private implementation details
 
----
-
-## Disclaimer
-
-MarketMinds is an academic AI engineering project and is intended for educational and decision-support purposes only. It should not be considered financial advice or a replacement for professional investment consultation.
 
 ---
 
