@@ -12,7 +12,7 @@ The project combines market data collection, AI-based prediction, chart pattern 
 
 Many investors, students, and small businesses rely on multiple tools for market data, news, technical analysis, and portfolio tracking. These workflows are often fragmented, expensive, or difficult for beginner users.
 
-MarketMinds addresses this problem by providing a single AI-powered dashboard that can support:
+MarketMinds addresses this problem by providing a single AI powered dashboard that can support:
 
 * Real-time market data analysis
 * AI-based price prediction
